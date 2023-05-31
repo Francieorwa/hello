@@ -13,12 +13,14 @@ To get started with the project, follow these steps:
      cd hello-world
 3.  Install project dependencies:
      npm install
+     
+     
 ##  Project Structure
 
-├── index.html          # HTML file with a "Hello Microverse!" header
-├── styles.css          # CSS file with styles for the header
-├── .gitignore          # Git ignore file
-└── README.md           # Project documentation (you're currently reading it!)
+├── index.html          
+├── styles.css          
+├── .gitignore          
+└── README.md           
 
 ## Contributing
 
